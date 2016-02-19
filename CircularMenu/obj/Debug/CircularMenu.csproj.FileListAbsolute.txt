@@ -12,5 +12,7 @@ c:\users\pesca\documents\visual studio 2015\Projects\CircularMenu\CircularMenu\o
 c:\users\pesca\documents\visual studio 2015\Projects\CircularMenu\CircularMenu\obj\Debug\res\drawable\icon.png
 c:\users\pesca\documents\visual studio 2015\Projects\CircularMenu\CircularMenu\obj\Debug\R.cs.flag
 c:\users\pesca\documents\visual studio 2015\Projects\CircularMenu\CircularMenu\obj\Debug\uploadflags.txt
+c:\users\pesca\documents\visual studio 2015\Projects\CircularMenu\CircularMenu\obj\Debug\res\drawable\background_oval_fill.xml
+c:\users\pesca\documents\visual studio 2015\Projects\CircularMenu\CircularMenu\obj\Debug\res\drawable\cv_picture.jpg
 c:\users\pesca\documents\visual studio 2015\Projects\CircularMenu\CircularMenu\obj\Debug\CircularMenu.dll.mdb
 c:\users\pesca\documents\visual studio 2015\Projects\CircularMenu\CircularMenu\bin\Debug\CircularMenu.dll.mdb
