@@ -1,0 +1,9 @@
+c:\users\pesca\documents\visual studio 2015\Projects\CircularMenu\CircularMenu\obj\Debug\assemblies\CircularMenu.dll
+c:\users\pesca\documents\visual studio 2015\Projects\CircularMenu\CircularMenu\obj\Debug\assemblies\Mono.Android.dll
+c:\users\pesca\documents\visual studio 2015\Projects\CircularMenu\CircularMenu\obj\Debug\assemblies\mscorlib.dll
+c:\users\pesca\documents\visual studio 2015\Projects\CircularMenu\CircularMenu\obj\Debug\assemblies\System.Core.dll
+c:\users\pesca\documents\visual studio 2015\Projects\CircularMenu\CircularMenu\obj\Debug\assemblies\System.dll
+c:\users\pesca\documents\visual studio 2015\Projects\CircularMenu\CircularMenu\obj\Debug\assemblies\System.Xml.dll
+c:\users\pesca\documents\visual studio 2015\Projects\CircularMenu\CircularMenu\obj\Debug\assemblies\System.Xml.Linq.dll
+c:\users\pesca\documents\visual studio 2015\Projects\CircularMenu\CircularMenu\obj\Debug\assemblies\System.Runtime.Serialization.dll
+c:\users\pesca\documents\visual studio 2015\Projects\CircularMenu\CircularMenu\obj\Debug\assemblies\System.ServiceModel.Internals.dll

@@ -1,0 +1,4 @@
+CircularMenu.MainActivity, CircularMenu;md5c0c0f1215c64b4d8ef0e1c5b3f547d52.MainActivity
+CircularMenu.MainActivity, CircularMenu, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c0c0f1215c64b4d8ef0e1c5b3f547d52.MainActivity
+CircularMenu.MainActivity;md5c0c0f1215c64b4d8ef0e1c5b3f547d52.MainActivity
+circularmenu.MainActivity;md5c0c0f1215c64b4d8ef0e1c5b3f547d52.MainActivity
